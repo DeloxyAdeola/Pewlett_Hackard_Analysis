@@ -15,5 +15,5 @@ Data Files –
 6 csv files containing employee details and job position information
 ERD and Schema
 The entity-relationship diagram (ERD) is a tool we use to design the database table relationships.
-![ alt text for screen readers](/path/to/image. png "Text to show on mouseover")
+![ alt text for screen readers]([/path/to/image. png](https://github.com/DeloxyAdeola/Pewlett_Hackard_Analysis/blob/main/EmployeesDB.png) "ERD")
 The drawing is called a schema and it is a blueprint for the conceptual design of the database.

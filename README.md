@@ -10,7 +10,7 @@ Background:
 In this project, we use QuickDBD and Schemas to design databases and writing intermediate-level SQL queries to answer important business questions for the company’s HR department. We also utilized PostregSQL a data base system to load, build, and host company data and pgAdmin and the result is a well-designed database with reporting capabilities.
 
 Data Files –
-3 csv files containing employee details and job position information
+4 csv files containing employee details and job position information
 ERD and Schema
 The entity-relationship diagram (ERD) is a tool we use to design the database table relationships.
 ![ alt text for screen readers]([/path/to/image. png](https://github.com/DeloxyAdeola/Pewlett_Hackard_Analysis/blob/main/EmployeesDB.png) "ERD")
